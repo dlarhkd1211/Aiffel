@@ -18,6 +18,8 @@
 | 2             | Analyze  cancer data               | ensemble              | 유방암 진단을 위한 모델 비교 |   [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp2)|
 | 3             | Camera Sticker App               | Vision              | 카메라 스티커 앱 만들기 |      [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp3) |
 | 4              |  Text Generator              | lyrics corpus     |         작사가 인공지능 만들기  |[Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp4) 
+| 5               | Kaggle Competitions   | GridSearchCV, Ensemble  | 나의 첫 번째 캐글 경진대회  | [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp5)
+
 <!-- | 3               |  News crawle  |  BeautifulSoup  | 뉴스기사 크롤링 및 분류  |  [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E3.%20News%20crawle.ipynb)  |
 | 4               |   Image Classification  |  Transfer Learning  | 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
