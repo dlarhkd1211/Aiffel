@@ -21,6 +21,7 @@
 | 5               | Kaggle Competitions   | GridSearchCV, Ensemble  | 나의 첫 번째 캐글 경진대회  | [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp5)
 | 6               |  Sentimental Classification   |  Word2Vec | 영화리뷰 텍스트 감성분석하기  |  [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp6) |
 | 7               |  Instance Segmentation  |  OpenCV, pixellib  | 사진 인물모드 만들기  |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp7)  |
+| 8               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp8) |
 <!-- | 4               |   Image Classification  |  Transfer Learning  | 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
 | 6               |  ADF test stationarity  | Stationarity  | 어제 오른 내 주식, 과연 내일은?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E6.%20ADF%20test%20stationarity.ipynb )  |
