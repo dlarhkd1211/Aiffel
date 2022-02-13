@@ -23,6 +23,7 @@
 | 7               |  Instance Segmentation  |  OpenCV, pixellib  | 사진 인물모드 만들기  |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp7)  |
 | 8               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp8) |
 | 9              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp9) | 
+|10               | Image Generator |  DCGAN    |  CIFAR-10 이미지 생성하기     | [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp10)  |
 <!-- | 4               |   Image Classification  |  Transfer Learning  | 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
 | 6               |  ADF test stationarity  | Stationarity  | 어제 오른 내 주식, 과연 내일은?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E6.%20ADF%20test%20stationarity.ipynb )  |
