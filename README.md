@@ -14,15 +14,15 @@
 
 | Num. |    About                                   | Concept        | Description                                      | Link        |
 | :---------:  | :-----------:                                | :-------------------: | :-------------------:                         |  -------------------: |
-| 1             | AI rock-scissor-paper              | CNN                | 인공지능과 가위바위보 하기           |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp1)       |
-| 2             | Analyze  cancer data               | ensemble              | 유방암 진단을 위한 모델 비교 |   [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp2)|
-| 3             | Camera Sticker App               | Vision              | 카메라 스티커 앱 만들기 |      [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp3) |
-| 4              |  Text Generator              | lyrics corpus     |         작사가 인공지능 만들기  |[Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp4) 
-| 5               | Kaggle Competitions   | GridSearchCV, Ensemble  | 나의 첫 번째 캐글 경진대회  | [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp5)
-| 6               |  Sentimental Classification   |  Word2Vec | 영화리뷰 텍스트 감성분석하기  |  [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp6) |
-| 7               |  Instance Segmentation  |  OpenCV, pixellib  | 사진 인물모드 만들기  |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp7)  |
-| 8               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp8) |
-| 9              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp9) | 
+| 1             | AI rock-scissor-paper              | CNN                | 인공지능과 가위바위보 하기           |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp01)       |
+| 2             | Analyze  cancer data               | ensemble              | 유방암 진단을 위한 모델 비교 |   [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp02)|
+| 3             | Camera Sticker App               | Vision              | 카메라 스티커 앱 만들기 |      [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp03) |
+| 4              |  Text Generator              | lyrics corpus     |         작사가 인공지능 만들기  |[Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp04) 
+| 5               | Kaggle Competitions   | GridSearchCV, Ensemble  | 나의 첫 번째 캐글 경진대회  | [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp05)
+| 6               |  Sentimental Classification   |  Word2Vec | 영화리뷰 텍스트 감성분석하기  |  [Link]( https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp06) |
+| 7               |  Instance Segmentation  |  OpenCV, pixellib  | 사진 인물모드 만들기  |  [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp07)  |
+| 8               | Text Summarization | AttentionLayer, seq2seq   |뉴스기사 요약해보기| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp08) |
+| 9              | Chest X-Ray Images  | CNN |폐렴 진단기 성능개선| [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp09) | 
 |10               | Image Generator |  DCGAN    |  CIFAR-10 이미지 생성하기     | [Link](https://github.com/dlarhkd1211/Aiffel/tree/main/Exploration/exp10)  |
 <!-- | 4               |   Image Classification  |  Transfer Learning  | 이미지 분류기 만들어보기  | [Link]( https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E4.%20Image%20Classification.ipynb)  |
 | 5               |  Feature Engineering  | LinearRegression  | 자전거 타는 사람은 몇 명?  | [Link](https://github.com/PEBpung/Aiffel/blob/master/Project/Exploration/E5.%20Feature%20Engineering.ipynb)  |
